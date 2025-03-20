@@ -4,13 +4,19 @@
 
 Imagine your mortgage application was rejected by an AI system. You ask why, but no one—not even the bank's employees—can explain exactly why you were denied. This frustrating scenario highlights the problem with "black box" AI: systems that make important decisions without providing understandable explanations.
 
+<img width="433" alt="Screenshot 2025-03-20 at 5 37 21 AM" src="https://github.com/user-attachments/assets/c8955096-d315-488f-8c10-d2361b49052e" />
+
+
 As AI increasingly influences everything from healthcare diagnoses to loan approvals, this lack of transparency creates serious concerns. How can we trust decisions we can't understand? How do we know these systems aren't reinforcing biases or making critical errors?
+
 
 ## What is LIME?
 
 LIME stands for Local Interpretable Model-agnostic Explanations. Developed by researchers in 2016, it's a technique that helps us understand how AI models make decisions by breaking them down into smaller, explainable pieces. Think of it as a flashlight that lets us peek inside the AI black box to see how it works.
 
 The "Local" in LIME means it explains individual predictions rather than the entire model. "Interpretable" means it provides explanations humans can understand. "Model-agnostic" means it works with almost any machine learning model.
+
+
 
 ## How Does LIME Work? A Simple Explanation
 
