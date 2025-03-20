@@ -32,6 +32,9 @@ Let's say an AI model is deciding whether a picture is of a cat or a dog. LIME w
 
 For example, if removing the ears from a cat image significantly lowers the model's confidence that it's a cat, then we learn that the ears were key to its decision.
 
+<img width="370" alt="Screenshot 2025-03-20 at 5 38 11 AM" src="https://github.com/user-attachments/assets/6a340e87-1b1f-4983-a2e1-8c6e82ee908c" />
+
+
 ## Real-World Examples: LIME in Action
 
 ### Healthcare
